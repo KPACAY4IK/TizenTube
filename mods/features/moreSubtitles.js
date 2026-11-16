@@ -12,7 +12,7 @@ const LANGUAGE_CODES = [
     "id", "ga", "it", "ja", "kn", "kk", "km", "ko", "ky", "lo", "lv", "lt",
     "mk", "ms", "ml", "mt", "mr", "mn", "ne", "no", "or", "fa", "pl", "pt",
     "pa", "ro", "ru", "sr", "si", "sk", "sl", "es", "sw", "sv", "ta", "te",
-    "th", "tr", "uk", "ur", "uz", "vi", "cy", "yi", "yo", "zu"
+    "th", "tr", "ug", "uk", "ur", "uz", "vi", "cy", "yi", "yo", "zu"
 ];
 
 // Return an object mapping language code -> localized language name.
